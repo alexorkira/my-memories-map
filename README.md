@@ -4,6 +4,7 @@ Collection of geolocated pictures of every trips/memories in a world map
 
 :warning:  Work in progress  :warning:	
 
+
 ## Available Scripts
 
 In the project directory, you can run:
